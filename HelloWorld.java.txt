@@ -1,7 +1,7 @@
 class HelloWorld{
 
 	public static void main(String[] args){
-	sysout("Hello World in Java JVM world of Java");
+	System.out.print("Hello World in Java JVM world of Java");
 	}
 
 
