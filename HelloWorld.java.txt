@@ -5,7 +5,7 @@ class HelloWorld{
 	}
 
 
-	method(){
+	public void method(){
 
 	sysout("A method")
 }
