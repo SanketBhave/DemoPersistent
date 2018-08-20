@@ -5,7 +5,7 @@ class HelloWorld{
 	}
 
 
-	method(){
+	public void method(){
 
 	System.out.print("A method")
 }
