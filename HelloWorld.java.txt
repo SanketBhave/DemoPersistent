@@ -1,6 +1,6 @@
 class HelloWorld{
 
 	public static void main(String[] args){
-	sysout("Hello World in Java JVM worldof Java");
+	sysout("Hello World in Java JVM world of Java");
 	}
 }

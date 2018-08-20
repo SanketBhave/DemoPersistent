@@ -1,0 +1,5 @@
+*.class.txt
+*.jar.txt
+.metadata
+*.war.txt
+*.tmp.txt
