@@ -3,3 +3,4 @@
 .metadata
 *.war.txt
 *.tmp.txt
+*.class
