@@ -7,6 +7,6 @@ class HelloWorld{
 
 	method(){
 
-	sysout("A method")
+	System.out.print("A method")
 }
 }
