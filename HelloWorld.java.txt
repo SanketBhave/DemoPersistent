@@ -3,4 +3,10 @@ class HelloWorld{
 	public static void main(String[] args){
 	sysout("Hello World in Java JVM world of Java");
 	}
+
+
+	method(){
+
+	sysout("A method")
+}
 }
